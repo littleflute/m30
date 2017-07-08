@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Boogie Chillen.mp3";		
+f[2]	= "02 Boogie Woogie Woman.mp3";		
+f[3]	= "03 All Night Boogie.mp3";		
+f[4]	= "04 Country Boogie (Tool Bag Boogie).mp3";		
+f[5]	= "05 Boogie After Midnight.mp3";		
+f[6]	= "06 Boogie Rambler.mp3";		
+f[7]	= "07 Boogie Woogie.mp3";		
+f[8]	= "08 Howlin¡¯ Wolf Boogie.mp3";		
+f[9]	= "09 Beer Bottle Boogie.mp3";		
+f[10]	= "10 Blue Light Boogie.mp3";		
+f[11]	= "11 Papa Bones Boogie.mp3";		
+f[12]	= "12 Momma Poppa Boogie.mp3";		
