@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Soul of a Man.mp3";		
+f[2]	= "02 It's Nobody¡¯s Fault But Mine.mp3";		
+f[3]	= "03 Keep Your Lamp Trimmed and Burning.mp3";		
+f[4]	= "04 Jesus Is Coming Soon.mp3";		
+f[5]	= "05 Mother¡¯s Children Have a Hard Time.mp3";		
+f[6]	= "06 Trouble Will Soon Be Over.mp3";		
+f[7]	= "07 Bye and Bye I¡¯m Going to See the King.mp3";		
+f[8]	= "08 God Don¡¯t Never Change.mp3";		
+f[9]	= "09 John the Revelator.mp3";		
+f[10]	= "10 Let Your Light Shine on Me.mp3";		
+f[11]	= "11 Dark Was the Night, Cold Was the Ground.mp3";		
