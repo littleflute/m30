@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 It's Just Begun.mp3";		
+f[2]	= "02 The Big Beat.mp3";		
+f[3]	= "03 Think (About It).mp3";		
+f[4]	= "04 Take Me to the Mardi Gras.mp3";		
+f[5]	= "06 Happy Music.mp3";		
+f[6]	= "07 Express Yourself.mp3";		
+f[7]	= "09 Mary, Mary.mp3";		
+f[8]	= "10 Let a Woman Be a Woman (Let a Man Be a Man).mp3";		
+f[9]	= "11 Give It Up or Turnit a Loose.mp3";		
+f[10]	= "Bra.mp3";		
+f[11]	= "Fame.mp3";		
+f[12]	= "UFO.mp3";		
